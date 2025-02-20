@@ -8,7 +8,7 @@ Abide dataset available [here](https://drive.google.com/file/d/1rTmBuLbMNu-vW7g4
 2. Creat your conda environment
 
 ```bash
-   conda env create -f cpssm.yml
+conda env create -f cpssm.yml
 ```
 4. Run the following command to train the model.
 
