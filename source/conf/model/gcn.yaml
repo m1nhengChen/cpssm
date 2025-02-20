@@ -1,0 +1,12 @@
+name: MSGCN
+
+# Model parameters
+hidden_dim: 64
+n_GNN_layers: 3
+edge_emb_dim: 8
+gcn_mp_type: bin_concate  # Options: 'bin_concate', 'weighted_sum', 'edge_weight_concate', 'edge_node_concate', 'node_concate'
+bucket_sz: 0.1
+# Training parameters
+pooling: sum  # Options: 'concat', 'sum', 'mean'
+num_classes: 2
+num_nodes: 300

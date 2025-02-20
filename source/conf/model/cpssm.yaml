@@ -1,0 +1,11 @@
+# seq, gnn, fbnetgen 
+name: CorePeripherySSM
+sizes: [360, 100]  # Note: The input node size should not be included here
+pooling: [false, true]
+pos_encoding: none  # identity, none
+orthogonal: true
+freeze_center: true
+project_assignment: true
+pos_embed_dim: 360
+core_rate: 0.2
+cp_masking: true
