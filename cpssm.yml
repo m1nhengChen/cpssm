@@ -1,4 +1,4 @@
-name: cortex
+name: cpssm
 channels:
   - conda-forge
   - defaults
