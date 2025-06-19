@@ -1,5 +1,5 @@
 # CP-SSM
-Official implementation of paper "Core-Periphery Principle Guided State Space Model for Functional Connectome Classification"
+Official implementation for MICCAI 2025 paper "Core-Periphery Principle Guided State Space Model for Functional Connectome Classification"
 ## Usage
 
 Abide dataset available [here](https://drive.google.com/file/d/1rTmBuLbMNu-vW7g43eSu21ur1Sc4oVHh/view?usp=sharing).
